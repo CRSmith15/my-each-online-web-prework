@@ -1,5 +1,5 @@
 def my_each(x)
-  i = 0
+  i = 1
   while i < x.size
     yield [i]
     i = i+1
