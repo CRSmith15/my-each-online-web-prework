@@ -1,7 +1,7 @@
 def my_each(x)
   i = 0
   while i < x.size
-    x.join("")
+
     yield [i]
     i = i+1
   end
