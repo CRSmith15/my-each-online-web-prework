@@ -1,6 +1,6 @@
 def my_each(x)
   i = 1
-  while i < x.size
+  while i =< x.size
     yield [i]
     i = i+1
   end
