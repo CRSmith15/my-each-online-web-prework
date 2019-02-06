@@ -5,5 +5,5 @@ def my_each(x)
     i = i+1
   end
   x
-  
+
 end
