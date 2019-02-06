@@ -3,7 +3,7 @@ def my_each(x)
   while i < x.size
     i = i + 1
 
-    yield [i]
+    yield 
 
   end
   x
