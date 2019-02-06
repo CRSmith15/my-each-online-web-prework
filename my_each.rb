@@ -7,3 +7,4 @@ def my_each(x)
   x
 
 end
+my_each(x)
